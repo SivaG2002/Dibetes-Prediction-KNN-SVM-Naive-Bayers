@@ -1,0 +1,1 @@
+# Dibetes-Prediction-KNN-SVM-Naive-Bayers
